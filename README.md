@@ -1,2 +1,2 @@
 # gosysytemprogramming
-<img src="GA.jpeg"/>
+<img src="deneme.jpeg"/>
